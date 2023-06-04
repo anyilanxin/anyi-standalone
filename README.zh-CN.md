@@ -22,4 +22,4 @@ spring boot、anyilanxin、 anyi-standalone
 
 | QQ群:666029437                                      |
 |----------------------------------------------------|
-| <img src="./docs/images/qq_group.png" width="200"> |
+| <img src="./docs/images/qq_group.jpg" width="200"> |
