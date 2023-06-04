@@ -1,7 +1,12 @@
-<img src="./docs/images/logo.png"  height="200" width="200">
+<p align="center">
+	<a href="https://anyilanxin.com"><img src="./docs/images/logo.png" width="14%"></a>
+</p>
+<p align="center">
+	AnYi Standalone
+</p>
 
 AnYi Standalone
-===============
+-----------------------------------
 spring cloud, spring alibaba, anyi-standalone
 
 当前最新版本： 1.0.0-alpha2（发布日期：2022-08-07）
